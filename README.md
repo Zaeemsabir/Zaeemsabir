@@ -42,3 +42,6 @@ Comprehensive documentation of findings and insights.
 ****Tools and Technologies****
 Python (e.g., Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 Jupyter Notebook for exploratory data analysis and modeling
+
+******VIDEO LINK******
+https://www.loom.com/share/58c23cff8c6247c59f0fdaa6e8a8f616?sid=ad241b32-f83f-4c1e-b224-839c9fdf2b1e

@@ -1,10 +1,12 @@
 ****House Prices: Advanced Regression Techniques****
-This repository contains an analysis for the Kaggle competition House Prices: Advanced Regression Techniques, performed by** Zaeem Sabir** as part of the coursework for MS Data Science **(Roll No: 2024-MS-DS-136).**
+This repository contains an analysis for the Kaggle competition House Prices: Advanced Regression Techniques, performed by
+** Zaeem Sabir** as part of the coursework for MS Data Science **(Roll No: 2024-MS-DS-136).**
 
 ****Objective****
 The goal of this project is to predict the sale prices of residential homes in Ames, Iowa, using advanced regression techniques. The dataset includes 79 features describing various aspects of homes.
 **
-****Workflow Overview******
+
+****Workflow Overview****
 
 **Data Exploration**
 
